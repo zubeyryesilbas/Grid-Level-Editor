@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f20061f3f66c45b7bf8e73f569e3128, type: 3}
+  m_Name: TileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - tileName: Box
+    tilePrefab: {fileID: 5474542826506438084, guid: 7609a290797e5412aa090b8afc002727, type: 3}
+    TileType: 1
+    tilePreview: {fileID: 0}
+  - tileName: Circle
+    tilePrefab: {fileID: 476474978684079165, guid: b0ded1001bc554e32a7d944fa8da5354, type: 3}
+    TileType: 3
+    tilePreview: {fileID: 0}

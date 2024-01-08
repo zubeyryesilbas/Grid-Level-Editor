@@ -1,0 +1,3 @@
+Type: empty, Coordinate: (0, 0)		Type: empty, Coordinate: (0, 1)		Type: empty, Coordinate: (0, 2)		
+Type: empty, Coordinate: (1, 0)		Type: x, Coordinate: (1, 1)		Type: empty, Coordinate: (1, 2)		
+Type: x, Coordinate: (2, 0)		Type: x, Coordinate: (2, 1)		Type: empty, Coordinate: (2, 2)		
